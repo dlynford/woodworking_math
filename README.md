@@ -1,2 +1,2 @@
 # woodworking_math
-calculations used to build custom furniture. 
+Time saving calculations used repeatedly in fine furniture building. 
